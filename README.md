@@ -13,12 +13,12 @@ Do NOT update the SteamVR provided in the project. It is modified for this proje
 More detailed building directions will be provided when we reach version 1.0, though for the most part the instructions from the HoloViveObserver project are the same. 
 
 ---
-##Usage
+## Usage
 
 First initiate the scene for the Vive by pressing the play button within unity, then start up the Hololens program. 
 
 ---
-##To do:
+## To do:
 
  - Control of robot model using vive controllers
  - Full body models for users
